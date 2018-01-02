@@ -17,5 +17,6 @@
 //= require components
 //= require_tree .
 //= require jquery
+//= require popper
 //= require jquery_ujs
 //= require bootstrap-sprockets
